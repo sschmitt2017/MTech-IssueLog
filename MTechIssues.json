@@ -4,23 +4,32 @@
       "id": 1,
       "title": "Quick Modeling",
       "area": "Elbow Directional Tools",
-       "status": "Fixed",  
-       "reported": "2026-09-25",
-       "fixed": "2026-09-25",        
-       "fixedIn": "1.9",         
-       "notes": "Stacked buttons were not showing in the codebase as optional. Fixed and now they cycle through and choose the correct one based on size"
-     }
-  ],
-  "issues": [
+      "status": "Fixed",
+      "reported": "2026-09-25",
+      "fixed": "2026-09-25",
+      "fixedIn": "1.9",
+      "notes": "Stacked buttons were not showing in the codebase as optional. Fixed and now they cycle through and choose the correct one based on size"
+    },
     {
       "id": 2,
       "title": "Quick Modeling",
       "area": "Connect / Disconnect",
-       "status": "Fixed",  
-       "reported": "2026-09-29",
-       "fixed": "2026-09-29",        
-       "fixedIn": "1.9",         
-       "notes": "Connect could not perform when a ITM has a connector that is not listed in th database. It saw this as an error."
-     }
-   ]
- }
+      "status": "Fixed",
+      "reported": "2026-09-29",
+      "fixed": "2026-09-29",
+      "fixedIn": "1.9",
+      "notes": "Connect could not perform when a ITM has a connector that is not listed in the database. It saw this as an error."
+    },
+    {
+      "id": 3,
+      "type": "Feature",
+      "title": "Version Info",
+      "area": "Help",
+      "status": "Added",
+      "reported": "2026-09-29",
+      "fixed": "2026-09-29",
+      "fixedIn": "1.9",
+      "notes": "New Version Info button on the Help panel. Shows your MTechBIM version, role and expiration date, with buttons to report a bug, suggest a tool, and see what's new."
+    }
+  ]
+}
