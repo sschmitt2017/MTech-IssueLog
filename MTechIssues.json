@@ -1,14 +1,26 @@
 {
   "issues": [
     {
-      "id": 12,
-      "title": "Connect Tee trims the wrong pipe end",
-      "area": "Pipe - Connect Tee",
+      "id": 1,
+      "title": "Quick Modeling",
+      "area": "Elbow Directional Tools",
        "status": "Fixed",  
-       "reported": "2026-09-20",
-       "fixed": "2026-09-28",        
+       "reported": "2026-09-25",
+       "fixed": "2026-09-25",        
        "fixedIn": "1.9",         
-       "notes": "Workaround: pick the branch last."
+       "notes": "Stacked buttons were not showing in the codebase as optional. Fixed and now they cycle through and choose the correct one based on size"
+     }
+  ],
+  "issues": [
+    {
+      "id": 2,
+      "title": "Quick Modeling",
+      "area": "Connect / Disconnect",
+       "status": "Fixed",  
+       "reported": "2026-09-29",
+       "fixed": "2026-09-29",        
+       "fixedIn": "1.9",         
+       "notes": "Connect could not perform when a ITM has a connector that is not listed in th database. It saw this as an error."
      }
    ]
  }
