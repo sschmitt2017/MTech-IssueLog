@@ -4,11 +4,11 @@
       "id": 12,
       "title": "Connect Tee trims the wrong pipe end",
       "area": "Pipe - Connect Tee",
-       "status": "Fixed",            // Open | In Progress | Fixed | Won't Fix
+       "status": "Fixed",  
        "reported": "2026-09-20",
-       "fixed": "2026-09-28",        // optional
-       "fixedIn": "1.9",             // optional - version that contains the fix
-       "notes": "Workaround: pick the branch last."   // optional
+       "fixed": "2026-09-28",        
+       "fixedIn": "1.9",         
+       "notes": "Workaround: pick the branch last."
      }
    ]
  }
