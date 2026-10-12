@@ -30,7 +30,7 @@
       "fixed": "2026-09-29",
       "fixedIn": "1.9",
       "notes": "New Version Info button on the Help panel. Shows your MTechBIM version, role and expiration date, with buttons to report a bug, suggest a tool, and see what's new."
-    }
+    },
     {
       "id": 4,
       "type": "Improvement",
