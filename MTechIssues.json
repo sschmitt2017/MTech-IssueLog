@@ -31,5 +31,15 @@
       "fixedIn": "1.9",
       "notes": "New Version Info button on the Help panel. Shows your MTechBIM version, role and expiration date, with buttons to report a bug, suggest a tool, and see what's new."
     }
+    {
+      "id": 4,
+      "title": "Quick Modeling",
+      "area": "Pipe (xLength)",
+      "status": "Updated",
+      "reported": "2026-10-02",
+      "fixed": "2026-10-12",
+      "fixedIn": "2.0",
+      "notes": "Pipe lxlength made the user always put in the length that they desired with no memory. Now the user can put in a length with a memory log of the last few input. This gives the user the ability to quickly select the length they choose if used before."
+    },
   ]
 }
