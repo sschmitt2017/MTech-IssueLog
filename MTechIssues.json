@@ -33,13 +33,13 @@
     }
     {
       "id": 4,
+      "type": "Improvement",
       "title": "Quick Modeling",
       "area": "Pipe (xLength)",
       "status": "Updated",
       "reported": "2026-10-02",
       "fixed": "2026-10-12",
       "fixedIn": "2.0",
-      "notes": "Pipe lxlength made the user always put in the length that they desired with no memory. Now the user can put in a length with a memory log of the last few input. This gives the user the ability to quickly select the length they choose if used before."
-    },
+      "notes": "Pipe xLength made the user always put in the length that they desired with no memory. Now the user can put in a length with a memory log of the last few inputs. This gives the user the ability to quickly select the length they choose if used before."
   ]
 }
