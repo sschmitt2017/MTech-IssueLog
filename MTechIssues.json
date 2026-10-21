@@ -52,6 +52,17 @@
       "fixed": "2026-10-20",
       "fixedIn": "2.1",
       "notes": "User can individually choose the pipes to stretch. Hit ESC and choose destination to stretch to."
+    },
+    {
+      "id": 5,
+      "type": "Improvement",
+      "title": "Admin",
+      "area": "Detail Filters",
+      "status": "Updated",
+      "reported": "2026-10-20",
+      "fixed": "2026-10-20",
+      "fixedIn": "2.1",
+      "notes": "New Filter Rules added for Sections. Fixed Pad filter rule to reflect correct family name."
     }
   ]
 }
