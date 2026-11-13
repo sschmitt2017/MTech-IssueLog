@@ -63,7 +63,7 @@
       "fixed": "2026-10-20",
       "fixedIn": "2.1",
       "notes": "New Filter Rules added for Sections. Fixed Pad filter rule to reflect correct family name."
-    }
+    },
     {
       "id": 7,
       "type": "Feature",
@@ -74,6 +74,6 @@
       "fixed": "2026-11-13",
       "fixedIn": "2.2",
       "notes": "New VG Panel added to Ribbon. This controls the active views visual graphics with a temporary override if a view template is applied. Fixed bug, where toggle wouldnt overide in link if VG template had link turned off. This now works."
-    },
+    }
   ]
 }
