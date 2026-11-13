@@ -54,7 +54,7 @@
       "notes": "User can individually choose the pipes to stretch. Hit ESC and choose destination to stretch to."
     },
     {
-      "id": 5,
+      "id": 6,
       "type": "Improvement",
       "title": "Admin",
       "area": "Detail Filters",
@@ -65,7 +65,7 @@
       "notes": "New Filter Rules added for Sections. Fixed Pad filter rule to reflect correct family name."
     }
     {
-      "id": 6,
+      "id": 7,
       "type": "Feature",
       "title": "Version Info",
       "area": "Help",
